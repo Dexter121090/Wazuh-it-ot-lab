@@ -29,5 +29,21 @@ hydra -l dexter -P /usr/share/wordlists/rockyou.txt -t 1 -W 3 ssh://192.168.100.
 ## MITRE ATT&CK
 
 - T1110 – Brute Force  
-- T1078 – Valid Accounts
+- T1078 – Valid AccountsRésultats de l’analyse des vulnérabilités
+
+- 48 vulnérabilités critiques  
+- 413 vulnérabilités hautes  
+- 402 vulnérabilités moyennes  
+
+## Score CIS Benchmark
+
+- Score global : 32%  
+- Recommandations de durcissement disponibles dans Wazuh
+
+  
+<img width="1347" height="387" alt="image" src="https://github.com/user-attachments/assets/53eacb17-63e6-4753-ac94-415ff40d23c7" />
+
 ![Uploading image.png…]()
+
+
+

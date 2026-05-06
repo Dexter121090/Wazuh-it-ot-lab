@@ -96,6 +96,7 @@ Wazuh détecte :
 
  Analyse complète de l’exposition du système  
 Recommandations de durcissement
+<img width="1322" height="775" alt="image" src="https://github.com/user-attachments/assets/3db60c40-a5ff-4c33-89fa-f9d26e82dddf" />
 
 ---
 

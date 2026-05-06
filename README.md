@@ -161,8 +161,27 @@ Ce projet démontre une capacité à travailler comme :
 
 - Intégration Zabbix  
 - Ajout d’un honeypot  
-- Détection réseau (Suricata)  
-- Automatisation via Ansible  
-```
+- Détection rés---
+
+## 📂 Mes autres projets GitHub
+
+🔗 **GitHub principal (celui que vous consultez) :**  
+https://github.com/mekemlongdexter002-droid
+
+🔗 **Deuxième GitHub (autres projets techniques) :**  
+https://github.com/Dexter121090
 
 ---
+
+### 📌 Projets importants
+
+- 🛡️ **Wazuh IT/OT Security Lab**  
+  Détection brute-force, reverse shell, FIM, CIS Benchmark  
+  👉 https://github.com/Dexter121090/Wazuh-it-ot-lab
+
+- 💥 **Metasploit Windows 7 Exploitation Guide**  
+  Exploitation, payloads, post-exploitation  
+  👉 https://github.com/mekemlongdexter002-droid/metasploit-windows7-guide
+eau (Suricata)  
+- Automatisation via Ansible  
+
